@@ -1,0 +1,16 @@
+.card-sec{
+    height: 100vh;
+}
+
+.card-row{
+    margin-top: 5%;
+}
+
+.card-col{
+    margin-top: 10%;
+}
+
+
+.exercise-card:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}

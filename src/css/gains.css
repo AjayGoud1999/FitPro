@@ -1,0 +1,6 @@
+.pn{
+    margin:30px;
+    display: flexbox;
+    align-items:flex-start;
+    padding: 0;
+}

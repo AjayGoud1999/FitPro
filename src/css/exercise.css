@@ -1,0 +1,47 @@
+.scroll-sec{
+    /* height: 100vh; */
+}
+
+.cont-col{
+    margin-top: 15%;
+}
+
+.text{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.d-flex{
+    margin-top: 5%;
+}
+
+.search-bar{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    height: 3em;
+}
+
+.card{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.card-carousel{
+    margin-top: 5%;
+}
+
+.carousel-control-prev-icon{
+    margin-right: 80% !important;
+}
+
+.carousel-control-next-icon{
+    margin-left: 80% !important;
+}
+#card-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 128px;
+    height: 128px;
+}

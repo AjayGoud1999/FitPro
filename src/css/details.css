@@ -1,0 +1,17 @@
+.my{
+    margin-top: 10%;
+}
+
+.desc{
+    margin-top: 5%;
+}
+
+.desc-detail{
+    margin-top: 8%;
+}
+
+.clickable{
+    /* margin-top: 20%; */
+    cursor: pointer;
+}
+
