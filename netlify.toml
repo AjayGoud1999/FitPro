@@ -1,7 +1,6 @@
 [build]
   functions = "functions"
 
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/app"
-  status = 200
+[dev]
+  functions = "netlify/functions"
+  publish = "public"  # If you have a static front-end, specify the directory here
