@@ -7,7 +7,7 @@ import Login from "./components/login.js";
 function App() {
   return (
     <div className="App">
-      <Exercise />
+      <MainSection />
     </div>
   );
 }
