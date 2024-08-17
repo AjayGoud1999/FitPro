@@ -18,10 +18,10 @@ function CollapsibleExample() {
               <NavHashLink to="/homePage" className='nav-link'>Home</NavHashLink>
               <NavHashLink to="/exercise" className='nav-link'>Exercises</NavHashLink>
               <NavHashLink to="/contact" className='nav-link'>Contact</NavHashLink>
-              <NavHashLink onClick={() => {
+              {/* <NavHashLink onClick={() => {
                 console.log('logoutclicked')
                 window.sessionStorage.clear()
-              }} to="/login" className='nav-link'>Logout</NavHashLink>
+              }} to="/login" className='nav-link'>Logout</NavHashLink> */}
             </Nav>
           </Navbar.Collapse>
         </Container>

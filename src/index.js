@@ -21,10 +21,10 @@ root.render(
       <Route path="/" exact element={<App/>}/>
       <Route path="/:id" element={<Details/>}/>
       <Route path="/contact" element={<Contact/>}/>
-      <Route path="/login" element={<Login/>}/>
+      {/* <Route path="/login" element={<Login/>}/> */}
       <Route path="/exercise" element={<Exercise/>}/>
 
-      <Route path="/register" element={<Register/>}/>
+      {/* <Route path="/register" element={<Register/>}/> */}
       <Route path="/homePage" element={<MainSection/>}/>
 
 
