@@ -1,0 +1,19 @@
+.footer{
+    margin-top: 5%;
+    height: 15em;
+    background-color: #0d6efd;
+}
+
+.foot-text{
+    text-align: center;
+    margin-top: 5%;
+    color: #fff;
+    font-size: 3.5em;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px;
+}
+
+.foot-sub-txt{
+    text-align: center;
+    color: #fff;
+}

@@ -1,0 +1,26 @@
+.card-sec {
+    min-height: 100vh;
+    padding: 2% 5%;
+    background: linear-gradient(to right, #e5e7eb, #f8fafc);
+}
+
+.card-row {
+    margin-top: 5%;
+    justify-content: center;
+}
+
+.card-col {
+    margin-top: 10%;
+}
+
+.exercise-card {
+    border-radius: 12px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+}
+
+.exercise-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
